@@ -1,0 +1,12 @@
+Shadow/
+├── src/
+│   └── main.py  # Your main code
+├── docs/
+│   └── configuration.md     # Optional documentation
+├── .env            # Environment template
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── CHANGELOG.md            # Optional but recommended
+
